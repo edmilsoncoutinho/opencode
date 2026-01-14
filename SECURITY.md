@@ -1,4 +1,4 @@
-# Reporting Security Issues
+Edmilson Coutinho# Reporting Security Issues
 
 We appreciate your efforts to responsibly disclose your findings, and will make every effort to acknowledge your contributions.
 
